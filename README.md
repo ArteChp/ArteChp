@@ -1,12 +1,12 @@
 ### Hello! I'm Arte 
 
-I'm a DevOps / SRE / System engineer and enjoy working on automation and process optimization, building CI/CD pipelines, establishing monitoring systems, enhancing observability, exploring new technologies and tools (especially related AI). I also like coding in Ruby, Python, HCL, PHP.
+I'm a DevOps / SRE / System engineer, enjoy working on automation and process optimization, building CI/CD pipelines, establishing monitoring systems, enhancing observability, exploring new technologies and tools (especially related AI). I also like coding in Ruby, Python, HCL, PHP.
 
 ---
 #### My Tech Stack
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon%20aws&logoColor=white)](https://aws.amazon.com/)
-[![terraform](https://img.shields.io/badge/terraform-232f3e?style=plastic&logo=terraform&logocolor=white)](https://www.terraform.io/)
+[![Terraform](https://img.shields.io/badge/terraform-sdf77?style=plastic&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-232f3e?style=plastic&logo=kubernetes&logocolor=white)](https://kubernetes.io/)
 [![AWS EKS](https://img.shields.io/badge/amazoneks-232f3e?style=plastic&logo=amazoneks&logocolor=white)](https://kubernetes.io/)
 [![Linux](https://img.shields.io/badge/Linux-OS-blue?style=plastic&logo=linux&logoColor=white)](https://www.linux.org/)
