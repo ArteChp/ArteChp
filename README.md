@@ -1,6 +1,6 @@
 ### Hello! I'm Arte 
 
-I'm a DevOps / SRE / System engineer, enjoy working on automation and process optimization, building CI/CD pipelines, establishing monitoring systems, enhancing observability, exploring new technologies and tools (especially related AI). I also like coding in Ruby, Python, HCL, PHP.
+I'm a DevOps / SRE / System Engineer who enjoys working on automation and process optimization, building CI/CD pipelines, establishing monitoring systems, enhancing observability, and exploring new technologies and tools (especially those related to AI). I also like coding in Ruby, Python, HCL, and PHP.
 
 ---
 #### My Tech Stack
