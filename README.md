@@ -46,7 +46,6 @@ I'm a DevOps / SRE / System Engineer who enjoys working on automation and proces
 
 <!--
 Contact me: 
--->
 
 
 ---
@@ -60,3 +59,4 @@ Contact me:
 
 <br/>
 
+-->
