@@ -5,10 +5,10 @@ I'm a DevOps / SRE / System engineer, enjoy working on automation and process op
 ---
 #### My Tech Stack
 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon%20aws&logoColor=white)](https://aws.amazon.com/)
+[![AWS](https://img.shields.io/badge/AWS-sdf77?style=plastic&logo=amazonwebservices&logoColor=white&color=%23ff9900)](https://aws.amazon.com/)
 [![Terraform](https://img.shields.io/badge/terraform-sdf77?style=plastic&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![Kubernetes](https://img.shields.io/badge/kubernetes-232f3e?style=plastic&logo=kubernetes&logocolor=white)](https://kubernetes.io/)
-[![AWS EKS](https://img.shields.io/badge/amazoneks-232f3e?style=plastic&logo=amazoneks&logocolor=white)](https://kubernetes.io/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-sdf77?style=plastic&logo=kubernetes&logoColor=white&color=%23326de5)](https://kubernetes.io/)
+[![AWS EKS](https://img.shields.io/badge/EKS-sdf77?style=plastic&logo=amazoneks&logoColor=%23f4901f&color=white)](https://aws.amazon.com/eks/)
 [![Linux](https://img.shields.io/badge/Linux-OS-blue?style=plastic&logo=linux&logoColor=white)](https://www.linux.org/)
 [![Debian](https://img.shields.io/badge/Debian-OS-blue?style=plastic&logo=debian&logoColor=white)](https://www.debian.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)](https://www.docker.com/)
